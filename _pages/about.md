@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi, I'm Sameer!"
+title: "Hi, I'm Sameer Bhatti!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
