@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sameer Bhatti (Leepo) is the actual goat please help me dog"
+title                    : "Sameer Bhatti (Leepo)"
 title_separator          : "-"
 name                     : &name "Sameer Bhatti"
 description              : &description "The GOAT"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Sameer Bhatti"
   avatar           : "profile.png"
-  bio              : "Trinity Valley School '25"
+  bio              : "TVS '25"
   location         : "Fort Worth, Texas"
-  employer         :
+  employer         : "Trinity Valley School"
   pubmed           : 
   googlescholar    : 
   email            : "sameerbhatti2006@gmail.com"
